@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Resume
+### Name: Deepika Bandaru
+**Personal Details**
+- Name:Deepika
+- email:deepikabandaru@gmail.com
+- Address:Miryalaguda
 
-You can use the [editor on GitHub](https://github.com/Deepika-Bandaru/Resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**B-Tech**
 
-### Markdown
+- college name:__MIC college__
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- branch:CSE
 
-```markdown
-Syntax highlighted code block
+- year of study:2018-2022
 
-# Header 1
-## Header 2
-### Header 3
+- percentage:91
 
-- Bulleted
-- List
+- address:vijayawada
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Intermediate**
 
-[Link](url) and ![Image](src)
-```
+- college name:__sri chaitanya jr college__
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- branch:MPC
 
-### Jekyll Themes
+- year of study:2016-2018
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deepika-Bandaru/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- percentage:91
 
-### Support or Contact
+- address:Hyderabad
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+**SSC**
+
+- school name:__sri chaitanya jr college__
+
+- year of study:2016-2018
+
+- percentage:91
+
+- address:miryalaguda
+
+**Skills**
+
+- c programming-60%
+- java-40%
+- python-70%
+
+
+**goals**
+i want to be software developer "Python"
